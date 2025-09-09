@@ -38,7 +38,7 @@ Below are some output images generated from the analysis:
 
 ### 🔹 APP LINK
 
-![APP LINK](http://127.0.0.1:7860)
+(http://127.0.0.1:7860)
 ---
 
 
