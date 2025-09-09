@@ -35,7 +35,13 @@ Below are some output images generated from the analysis:
 ### 🔹 PCA Scatter Plot
 ![PCA Scatter Plot](output.png)
 
+
+### 🔹 APP LINK
+
+![APP LINK](http://127.0.0.1:7860)
 ---
+
+
 
 ## 📝 Conclusion
 - The dataset contains **569 samples** with **30 numerical features** and one target (`Diagnosis`).  
