@@ -28,6 +28,10 @@ Below are some output images generated from the analysis:
 ### 🔹 Feature Distributions(After Log Transformation)
 ![Distribution of Features](output2.png)
 
+
+### 🔹 Correlation matrix
+![Correlation matrix](output3.png)
+
 ### 🔹 PCA Scatter Plot
 ![PCA Scatter Plot](output.png)
 
